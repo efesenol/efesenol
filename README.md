@@ -49,10 +49,8 @@
 
 
 - 🎓 Ankara Medipol Üniversitesi — Bilgisayar Programcılığı mezunuyum.
-- 💼 6+ aydır **Full‑Stack** .NET geliştirici olarak çalışıyorum.
+- 💼 1+ yıldır **Full‑Stack** .NET geliştirici olarak çalışıyorum.
 - 🧩 Tasarım detayları, modern UI/UX ve temiz mimari ile uğraşmayı seviyorum.
-- 🕹 Oyun (PoE2, LoL, R6S), 🏋️‍♂️ spor ve üretkenlik taraflarında düzenliyim.
-- 🎯 Hedefim: 5 yıl içinde **kendi yazılım girişimimi** kurmak.
 
 
 ---
@@ -74,9 +72,9 @@
 - **Video‑Certificate Platformu** — Sıralı video izleme, quiz, %90 izleme ile sertifika
 - **E‑Commerce Demo** — Ürün, sepet, ilişkiler (Product, Basket, BasketItem, ProductSize)
 - **Note/To‑Do** — Kullanıcı görevleri, etiketler, notlar
+- **Totbid Araştırma Dergisi** - Profesör doktorların makale yayınlayabildiği bir dergi websitesi
+  
 
-
-> Bu repo, beni ve çalışma tarzımı anlatan bir vitrin. İlgini çeken kısımlar için issue açabilirsin.
 
 
 ---
