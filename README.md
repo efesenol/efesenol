@@ -1,6 +1,4 @@
-<p align="center">
-<img src="assets/banner.svg" width="100%" alt="Efe Şenol — Full Stack Developer"/>
-</p>
+
 
 
 <h1 align="center">Selam! Ben Efe 👋</h1>
