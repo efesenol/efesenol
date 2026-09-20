@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<b>Full‑Stack .NET geliştirici</b> · Ankara · Temiz kod tutkunu
+<b>Full‑Stack .NET geliştirici</b> · Ankara 
 </p>
 
 
