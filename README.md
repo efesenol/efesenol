@@ -49,7 +49,7 @@
 
 
 - 🎓 Ankara Medipol Üniversitesi — Bilgisayar Programcılığı mezunuyum.
-- 💼 1+ yıldır **Full‑Stack** .NET geliştirici olarak çalışıyorum.
+- 💼 2+ yıldır **Full‑Stack** .NET geliştirici olarak çalışıyorum.
 - 🧩 Tasarım detayları, modern UI/UX ve temiz mimari ile uğraşmayı seviyorum.
 
 
